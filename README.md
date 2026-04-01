@@ -39,4 +39,4 @@
 - Sales show fluctuations across months with peak periods
 
 ## Dashboard Preview
-![Dashboard](./https://github.com/Jayesh-Gurav/Sales-Analysis-Excel-Dashboard/blob/main/Excel%20Dashboard.png)
+<img width="1851" height="656" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/ad625764-343d-4655-852d-a9be907ccbd0" />

@@ -6,4 +6,4 @@
 - The dashboard helps in understanding key business insights such as top-performing states, gender-based purchasing behavior, and monthly sales trends.
 
 ## Dataset used
-- < a href="https://github.com/Jayesh-Gurav/Sales-Analysis-Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx"> Vrinda Store Data</a>
+- <a href="https://github.com/Jayesh-Gurav/Sales-Analysis-Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>

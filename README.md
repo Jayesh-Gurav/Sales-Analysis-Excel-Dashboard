@@ -40,3 +40,6 @@
 
 ## Dashboard Preview
 <img width="1851" height="656" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/ad625764-343d-4655-852d-a9be907ccbd0" />
+
+## Conclusion
+This dashboard provides a clear and interactive view of Vrinda Store’s sales performance. It highlights key trends such as customer dominance by women, strong delivery success rate, and top-performing regions. The use of Excel tools like Pivot Tables and Slicers makes the analysis dynamic and user-friendly, helping in better decision-making.
